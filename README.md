@@ -1,4 +1,4 @@
-# Classificador e Extrator de Documentos OCR
+# Classificador e Extrator de Documentos OCR [![PLN](https://img.shields.io/badge/PLN-Expert-blue.svg)](https://github.com/seu-usuario/seu-projeto)
 
 Este projeto visa desenvolver um robusto classificador e extrator de informações de documentos OCR (Optical Character Recognition) através da integração com a API do OpenAI. O propósito principal é identificar e classificar automaticamente o tipo de documento com base em seu conteúdo textual, além de extrair informações específicas contidas nos documentos.
 
